@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JP-10
-- 👀 I’m interested in books and programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me by email: rinjace5129@gmail.com
+- 📚 I LOVE READING
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 💞️ collaboration requests are welcome
+- 📫 How to reach me- by email: rinjace5129@gmail.com
 
 <!---
 JP-10/JP-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
